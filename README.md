@@ -19,6 +19,6 @@ Autorisations : Notre application peut nécessiter certaines autorisations pour 
 
  Nous vous remercions de faire confiance à notre application. Soyez assuré que nous respectons votre vie privée et nous nous engageons à fournir une expérience sûre et sécurisée.
 
- Cette politique de confidentialité est effective à partir du [date d'entrée en vigueur].
+ Cette politique de confidentialité est effective à partir du 22/06/23.
 
  Veuillez noter que cet exemple doit être adapté en fonction des spécificités de votre application. Il est recommandé de consulter un professionnel du droit ou un avocat spécialisé dans la protection des données pour vous assurer que votre politique de confidentialité respecte toutes les lois et  réglementations applicables.

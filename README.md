@@ -16,7 +16,6 @@ Autorisations : Notre application peut nécessiter certaines autorisations pour 
 
  Modifications de la politique de confidentialité : Nous nous réservons le droit de mettre à jour cette politique de confidentialité à tout moment. Toute modification sera affichée dans cette application et la date de la dernière mise à jour sera indiquée en haut de la politique de confidentialité.
 
- Contactez-nous : Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité ou nos pratiques en matière de confidentialité, veuillez nous contacter à [adresse e-mail de contact].
 
  Nous vous remercions de faire confiance à notre application. Soyez assuré que nous respectons votre vie privée et nous nous engageons à fournir une expérience sûre et sécurisée.
 
